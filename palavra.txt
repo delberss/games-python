@@ -1,0 +1,16 @@
+parede
+alface
+futebol
+areia
+goiaba
+janela
+pneu
+aviao
+computador
+travesseiro
+grama
+petroleo
+odontologia
+ceu
+aula
+aluguel
