@@ -9,7 +9,10 @@
 
 <h3>Somente execute o arquivo jogos.py </h3>
 
-### Telas
+<hr>
+
+
+## Telas
 
 <div>
   <img src="https://user-images.githubusercontent.com/71342302/223803459-17382a4a-bf0b-4e10-b037-7ec8ee97b31e.png" width="300" height="250">
